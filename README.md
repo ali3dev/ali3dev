@@ -43,7 +43,7 @@ Welcome to my GitHub!
 
 **Agentic Stack**: LangChain, LangGraph, CrewAI, AutoGen, OpenAI SDK, Gemini SDK  
 **Automation Tools**: Make.com, n8n, Zapier (learning)  
-**Languages**: Python, JavaScript (basic)  
+**Languages**: Python, JavaScript (for automation & integration tasks)
 **Deployment & UI**: Streamlit, MongoDB, Git  
 **AI/ML**: LLMs, Generative AI, NLP, Deep Learning, RAG  
 **Other**: EDA, Web Scraping, GitHub Actions
