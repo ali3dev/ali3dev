@@ -1,33 +1,69 @@
 # Hi, I'm Ali Arslan Khan 👋
 
-Welcome to my GitHub profile! I'm passionate about Data Science (DS), Machine Learning (ML), Deep Learning (DL), and Python development. I enjoy solving real-world problems through data-driven solutions and AI technologies.
+Welcome to my GitHub!
 
-## 🔭 Current Projects
-- **Generative AI**: Exploring the world of Generative AI through various models and applications.
-- **LLM Web Agents**: Developing LLM-based web agents to automate tasks such as gathering real-time data from different sources.
-- **Agentic AI**: Building intelligent agents for various applications, focusing on enhancing AI capabilities in real-world scenarios.
+🚀 I'm an Agentic AI Developer on a mission to automate intelligent workflows using LLMs, no-code tools, and reasoning-based agents. I specialize in building autonomous systems with memory, tools, and real-world utility — from LangChain and LangGraph to Make.com and beyond.
 
-## 🌱 I'm currently learning
-- **Generative AI and LLMs**: Exploring advanced architectures, data preparation techniques, and fine-tuning models to build powerful generative systems.
-- **LangChain**: Working with LangChain to develop applications and integrate it with various AI models.
-- **Large Language Models (LLMs)**: Focusing on mastering LLMs to create cutting-edge AI solutions and teach others.
-- **AI Agentic**: Diving deeper into the development of AI agents capable of performing complex tasks autonomously.
+---
 
-## 💼 Professional Experience
-- **LLM Web Agents Fellow at Fellowship.AI**: Building production-ready LLM web agents to automate web-based tasks, such as extracting real-time data. Gaining hands-on experience with tools like LangChain, Hugging Face models, and SeeAct for deploying autonomous agents.
-- **Deep Learning Engineer Intern at ITSOLERA PVT LTD**: Worked on deep learning models for fingerprint recognition and ASL recognition, focusing on Siamese networks, CNNs, and NLP.
-- **Data Science Intern at CODEALPHA**: Contributed to machine learning projects, performing EDA and developing predictive models to solve real-world business challenges.
+## 🔥 Featured Projects
 
-## 📈 Skills
-- Python | PyTorch | TensorFlow | Keras
-- Generative AI | Large Language Models (LLMs) | Deep Learning | Natural Language Processing (NLP)
-- Web Agent Development | LangChain | Web Scraping | Exploratory Data Analysis (EDA)
+- **AutoSocialAgent (FYP)** – A smart AI agent that automates social media content planning, writing, and publishing. Combines LLMs, memory, planning, and scheduling APIs.
+- **GraphRAG** – Graph-enhanced retrieval system that enables multi-hop reasoning through LangChain and structured document graphs.
+- **Self-RAG** – Built a feedback-loop-based retrieval-generation pipeline for better answers without human involvement.
+- **ATLAS** – A learning task manager agent that uses LangGraph to explain academic topics, manage deadlines, and personalize learning.
+- **Make.com AI Automations (Coming Soon)** – Building automated agentic workflows using Make.com for email, Google Sheets, social media, and APIs — all powered by LLM reasoning.
+- **ML Apps** – Including IPL Score Predictor and Disease Diagnosis App built using XGBoost, logistic regression, and deployed with Streamlit.
 
-## 🌍 Let's Connect
-- **LinkedIn**: [www.linkedin.com/in/ali-arslan-khan-b35212316](https://www.linkedin.com/in/ali-arslan-khan-b35212316)
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali3dev&show_icons=true&theme=dark)
+## 🧠 What I'm Focusing On
 
-## 💬 Get in Touch
-I'm open to collaboration on interesting projects. Feel free to reach out to me via [aliarslan5866@gmail.com].
+- **LLM Agents** with real-world use cases (planning, memory, tools, API calling)
+- **No-Code + AI** Automation using platforms like Make.com and n8n
+- **OpenAI & Gemini SDKs** for advanced agentic execution
+- **Deployable AI Systems** for freelancing and product building
+
+---
+
+## 💼 Experience
+
+- **LLM Web Agents Fellow @ Fellowship.AI**  
+  Developed agents using LangChain, Hugging Face, and SeeAct to automate real-time browser tasks.
+
+- **Deep Learning Intern @ ITSOLERA PVT LTD**  
+  Contributed to fingerprint and ASL recognition using CNNs and Siamese networks.
+
+- **Data Science Intern @ Code Alpha**  
+  Delivered machine learning pipelines, EDA, and real-world predictive models.
+
+---
+
+## 🧰 Skills
+
+**Agentic Stack**: LangChain, LangGraph, CrewAI, AutoGen, OpenAI SDK, Gemini SDK  
+**Automation Tools**: Make.com, n8n, Zapier (learning)  
+**Languages**: Python, JavaScript (basic)  
+**Deployment & UI**: Streamlit, MongoDB, Git  
+**AI/ML**: LLMs, Generative AI, NLP, Deep Learning, RAG  
+**Other**: EDA, Web Scraping, GitHub Actions
+
+---
+
+## 📜 Certifications
+
+- IBM Generative AI Engineering Certificate  
+- LangChain for LLM Applications – Packt  
+- LangGraph Ambient Agent Course – Packt  
+
+---
+
+## 📬 Let's Connect
+
+📧 Email: aliarslan5866@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-arslan-khan-b35212316)  
+💻 [GitHub](https://github.com/ali3dev)
+
+---
+
+💬 *Open to freelance work, internships, and collaborations in Agentic AI, LLMs, and automation-based systems.*
