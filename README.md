@@ -1,69 +1,74 @@
 # Hi, I'm Ali Arslan Khan 👋
 
-Welcome to my GitHub!
+**Computer Science Graduate | Learning Agentic AI Engineering | Python | LLM Applications**
 
-🚀 I'm an Agentic AI Developer on a mission to automate intelligent workflows using LLMs, no-code tools, and reasoning-based agents. I specialize in building autonomous systems with memory, tools, and real-world utility — from LangChain and LangGraph to Make.com and beyond.
+I'm a Computer Science graduate building my skills in AI and software engineering, with a current focus on **LLM applications, Agentic AI systems, and reliable AI engineering**.
 
----
+My approach is hands-on: understand the concepts, build from first principles, test the implementation, and learn why each engineering decision matters.
 
-## 🔥 Featured Projects
+## 🚀 Projects
 
-- **AutoSocialAgent (FYP)** – A smart AI agent that automates social media content planning, writing, and publishing. Combines LLMs, memory, planning, and scheduling APIs.
-- **GraphRAG** – Graph-enhanced retrieval system that enables multi-hop reasoning through LangChain and structured document graphs.
-- **Self-RAG** – Built a feedback-loop-based retrieval-generation pipeline for better answers without human involvement.
-- **ATLAS** – A learning task manager agent that uses LangGraph to explain academic topics, manage deadlines, and personalize learning.
-- **Make.com AI Automations (Coming Soon)** – Building automated agentic workflows using Make.com for email, Google Sheets, social media, and APIs — all powered by LLM reasoning.
-- **ML Apps** – Including IPL Score Predictor and Disease Diagnosis App built using XGBoost, logistic regression, and deployed with Streamlit.
+### 1. LLM Reliability Monitor
+A Python-based reliability layer for LLM API integrations using the Anthropic Python SDK and OpenRouter.
 
----
+- Bounded exponential backoff for selected transient failures.
+- Provider error translation into application-level exceptions.
+- Input/output token usage, latency, and provider-reported cost tracking when available.
+- Streaming response support.
+- Automated test suite: 31 tests passed in the latest confirmed local run.
 
-## 🧠 What I'm Focusing On
+**Technologies:** Python, Anthropic SDK, OpenRouter, pytest
 
-- **LLM Agents** with real-world use cases (planning, memory, tools, API calling)
-- **No-Code + AI** Automation using platforms like Make.com and n8n
-- **OpenAI & Gemini SDKs** for advanced agentic execution
-- **Deployable AI Systems** for freelancing and product building
+[View Repository](https://github.com/ali3dev/llm-reliability-monitor)
 
----
+### 2. AutoSocialAgent — Final Year Project
+A modular AI workflow that transforms YouTube videos into platform-specific social media content.
 
-## 💼 Experience
+- Whisper for audio transcription.
+- Gemini SDK for summarization and caption generation.
+- Stable Diffusion for visual generation.
+- LangGraph for workflow orchestration.
+- Human-in-the-loop approval.
 
-- **LLM Web Agents Fellow @ Fellowship.AI**  
-  Developed agents using LangChain, Hugging Face, and SeeAct to automate real-time browser tasks.
+**Technologies:** Python, Whisper, Gemini SDK, Stable Diffusion, LangGraph
 
-- **Deep Learning Intern @ ITSOLERA PVT LTD**  
-  Contributed to fingerprint and ASL recognition using CNNs and Siamese networks.
+## 🧠 Current Learning Focus
 
-- **Data Science Intern @ Code Alpha**  
-  Delivered machine learning pipelines, EDA, and real-world predictive models.
+- Prompt engineering and structured output
+- LLM APIs and application development
+- Tool and function calling
+- Agent loops and orchestration
+- Retrieval-Augmented Generation (RAG)
+- Memory and context management
+- Evaluation, testing, and observability
+- AI application security and deployment
 
----
+## 🛠️ Technologies
 
-## 🧰 Skills
+**Programming:** Python
 
-**Agentic Stack**: LangChain, LangGraph, CrewAI, AutoGen, OpenAI SDK, Gemini SDK  
-**Automation Tools**: Make.com, n8n, Zapier (learning)  
-**Languages**: Python, JavaScript (for automation & integration tasks)
-**Deployment & UI**: Streamlit, MongoDB, Git  
-**AI/ML**: LLMs, Generative AI, NLP, Deep Learning, RAG  
-**Other**: EDA, Web Scraping, GitHub Actions
+**LLM & Agent Frameworks:** LangChain, LangGraph
 
----
+**AI/ML:** Machine Learning, Deep Learning, Generative AI, NLP
+
+**LLM Integration:** Anthropic Python SDK, OpenRouter, Gemini SDK
+
+**Development & Testing:** FastAPI, Git, GitHub, pytest
 
 ## 📜 Certifications
 
-- IBM Generative AI Engineering Certificate  
-- LangChain for LLM Applications – Packt  
-- LangGraph Ambient Agent Course – Packt  
+- IBM Generative AI Engineering Certificate
+- LangChain for LLM Applications — Packt
+- LangGraph Ambient Agent Course — Packt
 
----
+## 🎯 Career Direction
 
-## 📬 Let's Connect
+I'm working toward becoming an **Agentic AI Engineer** by developing strong foundations in software engineering, LLM application development, agent architecture, evaluation, reliability, and production systems.
 
-📧 Email: aliarslan5866@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-arslan-khan-b35212316)  
-💻 [GitHub](https://github.com/ali3dev)
+My long-term goal is to build useful AI products and eventually create my own AI startup.
 
----
+## 📬 Connect
 
-💬 *Open to freelance work, internships, and collaborations in Agentic AI, LLMs, and automation-based systems.*
+- [LinkedIn](https://www.linkedin.com/in/ali-arslan-khan-b35212316)
+- [GitHub](https://github.com/ali3dev)
+
